@@ -1,3 +1,2 @@
 [build]
-  functions = "/functions"
-  publish = "public" # Directory where static files are located
+  functions = "functions"
