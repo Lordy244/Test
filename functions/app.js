@@ -8,7 +8,7 @@ app.use(cors());
 // Define a basic endpoint
 
 router.get('/', (req, res) => {
-    res.send('Hello, World!');
+    res.send('Hello, World!!');
 });
 
 router.get('/about', (req, res) => {
